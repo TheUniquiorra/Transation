@@ -1,6 +1,11 @@
-ʹ��Emacs Lisp��̵Ľ���
+使用Emacs Lisp编程的介绍
 
-����һ�� ��ʹ��Emacs Lisp��̵Ľ��ܡ���Ϊ����Щ���Ǵ��±����ҵ���ˡ�
+这是一个 “使用Emacs Lisp编程的介绍”，为了那些不是从事编程行业的人。
+
+基于Emacs version 26.1
+
+Copyright © 1990–1995, 1997, 2001–2018 Free Software Foundation, Inc.
+版权归自由软件基金会所有
 
 
 

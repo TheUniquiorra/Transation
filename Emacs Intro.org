@@ -1,6 +1,6 @@
-使用Emacs Lisp编程的介绍
+Emacs Lisp编程简介
 
-这是一个 “使用Emacs Lisp编程的介绍”，为了那些不是从事编程行业的人。
+这是一个 “Emacs Lisp编程简介”，为了那些不是从事编程行业的人。
 
 基于Emacs version 26.1
 

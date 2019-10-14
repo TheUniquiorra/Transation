@@ -4,8 +4,26 @@
 
 基于Emacs version 26.1
 
-Copyright © 1990–1995, 1997, 2001–2018 Free Software Foundation, Inc.
-版权归自由软件基金会所有
+Copyright © 1990–1995, 1997, 2001–2018 版权归自由软件基金会所有
 
+从https://shop.fsf.org 获取有效的版权信息打印副本，有以下公司出版：
+
+     GNU Press,                        https://www.fsf.org/licensing/gnu-press/
+     a division of the                 email: sales@fsf.org
+     Free Software Foundation, Inc.    Tel: +1 (617) 542-5942
+     51 Franklin Street, Fifth Floor   Fax: +1 (617) 542-2652
+     Boston, MA 02110-1301 USA
+
+ISBN 1-882114-43-4
+
+     在GNU 自由文档许可证下，每个人都有权限去复制、发布或者修改这篇文档，1.3版本或以后的版本由自由软件基金会发布；
+     不存在变化的部分是，封面字体“A GNU Manual”，和背面的文本如（a）所示，许可证的副本包含在标题为“GNU自
+     由文档许可证”
+
+     （a）GNU自由软件基金会封底文字是“你拥有复制和修改这个GNU手册的自由.购买权限从自由软件基金会支持该文档，从
+      GNU中购买副本支持开发GNU并且促进软件自由“
+      
+
+ 
 
 
